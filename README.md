@@ -19,9 +19,9 @@ In this repository, there are 6 .trees files from 6 phylogenetic analysis under 
 
   BDSS tree prior + sampling divergence times + sampling tree topology + sampling BDSS parameters + clade constraints
   
-  Clade1 (Caniformia):
+  Clade1 (Caniformia): Ael_sp, Tom_sp, Epi_hay, Par_jos, Enh_pah, Hes_sp, Can_dir, Can_lup, Cuo_alp, Cer_tho, Spe_ven, Oto_meg, Vul_vul, Urs_ame, Ail_ful
   
-  Clade2 (Felifomia):
+  Clade2 (Felifomia): Par_her, Hia_won, Smi_fat, Nan_bin
 
 * Analysis 5:
 
@@ -31,9 +31,9 @@ In this repository, there are 6 .trees files from 6 phylogenetic analysis under 
  
   FBD tree prior + sampling divergence times + sampling tree topology + sampling FBD parameters + clade constraints
 
-  Clade1 (Caniformia):
+  Clade1 (Caniformia): Ael_sp, Tom_sp, Epi_hay, Par_jos, Enh_pah, Hes_sp, Can_dir, Can_lup, Cuo_alp, Cer_tho, Spe_ven, Oto_meg, Vul_vul, Urs_ame, Ail_ful
   
-  Clade2 (Felifomia):
+  Clade2 (Felifomia): Par_her, Hia_won, Smi_fat, Nan_bin
   
 ## Visualizing tree distance using multidimensional scaling 
 
