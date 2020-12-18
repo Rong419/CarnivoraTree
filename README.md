@@ -7,15 +7,15 @@ In this repository, there are 6 .trees files from 6 phylogenetic analysis under 
 
   BDSS tree prior + sampling divergence times + fixed tree topology + fixed BDSS parameters
   
-* Analysis 2: 
+* Analysis 2: MorphMolec_BDSS_fixedparams.trees (10001 sampled trees)
 
   BDSS tree prior + sampling divergence times + sampling tree topology + fixed BDSS parameters 
 
-* Analysis 3:   
+* Analysis 3: MorphMolec_BDSS_sampleparams.trees  (10001 sampled trees)
   
   BDSS tree prior + sampling divergence times + sampling tree topology + sampling BDSS parameters
 
-* Analysis 4:  
+* Analysis 4:  MorphMolec_BDSS_constraints.trees (10001 sampled trees)
 
   BDSS tree prior + sampling divergence times + sampling tree topology + sampling BDSS parameters + clade constraints
   
@@ -23,11 +23,11 @@ In this repository, there are 6 .trees files from 6 phylogenetic analysis under 
   
   Clade2 (Felifomia): Par_her, Hia_won, Smi_fat, Nan_bin
 
-* Analysis 5:
+* Analysis 5: MorphMolec_FBD_sampleparams.trees (10001 sampled trees)
 
   FBD tree prior + sampling divergence times + sampling tree topology + sampling FBD parameters
 
-* Analysis 6:
+* Analysis 6: MorphMolec_FBD_constraints.trees (10001 sampled trees)
  
   FBD tree prior + sampling divergence times + sampling tree topology + sampling FBD parameters + clade constraints
 
